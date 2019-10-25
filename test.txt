@@ -1,1 +1,16 @@
-test fichier 
+comment utiliser github 
+
+creer le repertoire local:
+git init 
+git remote add origin lien
+
+push dans le repertoire en ligne:
+git add *
+git commit -m "ffff"
+git push -u origin master
+
+mettre a jour le repertoir local:
+git clone lien
+
+pull sur le repertoire en ligne :
+
