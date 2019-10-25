@@ -13,4 +13,4 @@ mettre a jour le repertoir local:
 git clone lien
 
 pull sur le repertoire en ligne :
-
+git pull origin master
