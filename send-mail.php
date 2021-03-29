@@ -15,7 +15,7 @@ $message=$_POST['message'];
     $body .= "Message: " . $message . "\n"; 
 
     //replace with your email
-    mail("contact@gpro-consulting.com","New email",$body); 
+    mail("info@arysmart.com","New email",$body); 
 
   
 ?>
