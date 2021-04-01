@@ -16,8 +16,8 @@ pull sur le repertoire en ligne :
 git pull origin master
 
 
-Pour modifier le code sur aws :
+Pour charger le code sur aws :
 
-aws -> stockage -> s3 -> arysmart.com  ->  charger fichier (à cocher) 
+aws -> stockage -> s3 -> arysmart.com  ->  charger fichier
 
 *ne pas oublier de donner accees à "tout le monde" dans les autorisations sinon la page ne sera pas fonctionnelle.
